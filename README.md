@@ -4,7 +4,7 @@ A collection of C# console applications demonstrating fundamental programming co
 
 ## 📁 Project Structure
 
-###Data Structures and Algorithms
+### Data Structures and Algorithms
 - **Activity1_1** – Raw I/O without arrays or loops (20 individual variables)
 - **Activity1_2** – Same functionality using arrays and loops  
 - **Activity1_3** – Enhanced version displaying odd-numbered entries first
@@ -14,10 +14,10 @@ A collection of C# console applications demonstrating fundamental programming co
 - **StackImplementation** – Custom stack data structure
 - **QueueImplementation** – Queue implementation
 
-###Classes and Inheritance
+### Classes and Inheritance
 - **Classes** – Inheritance hierarchy demonstrating OOP principles
 
-### **🎮 Creative Output: Undergraduate Decisions**
+### Creative Output: Undergraduate Decisions
 An interactive narrative game following a college freshman's journey. Manage four resources: academic, mental, social, financial.
 Follow one of two distinct narrative tracks, each leading to three dramatically different conclusions, offering six possible endings.
 
