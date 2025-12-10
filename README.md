@@ -51,12 +51,6 @@ dotnet build
 dotnet run --project Midterm_Compilation
 ```
 
-## 🛠️ Technologies
-- **Language:** C# 10
-- **Framework:** .NET 8
-- **Paradigms:** Procedural, OOP, Data Structures
-- **Game Engine:** Custom text-based narrative system
-
 ## 📄 License
 MIT License - See [LICENSE](LICENSE) for details.
 
