@@ -20,6 +20,7 @@ Data Structures and Algorithms
 ### **🎮 Main Project: Undergraduate Decisions**
 An interactive narrative game following a college freshman's journey. Manage four resources: academic, mental, social, financial.
 Follow one of two distinct narrative tracks, each leading to three dramatically different conclusions, offering six possible endings.
+
 *This game is inspired by resource-management choice games like "Lapse: A Forgotten Future".*
 
 ## 🚀 Getting Started
@@ -54,18 +55,6 @@ dotnet run --project Midterm_Compilation
 - **Framework:** .NET 8
 - **Paradigms:** Procedural, OOP, Data Structures
 - **Game Engine:** Custom text-based narrative system
-
-## 📚 Learning Objectives Covered
-- Basic I/O operations
-- Array and collection manipulation
-- Struct vs Class usage
-- List, Stack, and Queue implementations
-- Inheritance and polymorphism
-- State management in interactive fiction
-- Resource balancing mechanics
-
-## 📊 Project Timeline
-This compilation represents midterm submissions for a university programming course, progressing from basic syntax to complex OOP and game design.
 
 ## 📄 License
 MIT License - See [LICENSE](LICENSE) for details.
